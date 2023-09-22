@@ -1,0 +1,35 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB6/TPOTCVdb6.py
+Number of Rows: 194
+Number of Columns: 35
+  Class       X.0       X.1       X.2  ...      X.30      X.31      X.32      X.33
+0     N -0.651515 -0.462853  0.195253  ... -0.738394 -0.452563  1.096075  0.327286
+1     N -0.689732  0.408365  0.185770  ...  1.865927  1.319332  0.068091 -0.221649
+2     N -0.402788  2.005598  1.254211  ...  1.504517 -0.005015 -0.188905 -0.587605
+3     N -0.402456  2.208882 -1.891052  ...  4.623205  3.857313 -0.445902 -0.587605
+4     R -0.402421 -0.579016  0.912816  ... -1.162070 -0.656634  0.325087 -0.587605
+
+[5 rows x 35 columns]
+
+Generation 1 - Current best internal CV score: 0.8243859649122807
+
+Generation 2 - Current best internal CV score: 0.8243859649122807
+
+Generation 3 - Current best internal CV score: 0.8243859649122807
+
+Generation 4 - Current best internal CV score: 0.8243859649122807
+
+Generation 5 - Current best internal CV score: 0.8243859649122807
+
+Generation 6 - Current best internal CV score: 0.8243859649122807
+
+Generation 7 - Current best internal CV score: 0.8243859649122807
+
+Generation 8 - Current best internal CV score: 0.8243859649122807
+
+Generation 9 - Current best internal CV score: 0.8243859649122807
+
+Generation 10 - Current best internal CV score: 0.8243859649122807
+
+Best pipeline: GradientBoostingClassifier(input_matrix, learning_rate=0.1, max_depth=10, max_features=0.7000000000000001, min_samples_leaf=11, min_samples_split=17, n_estimators=100, subsample=0.9000000000000001)
+
+Process finished with exit code 0

@@ -1,0 +1,26 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB4/TPOTTTdb4.py
+
+Generation 1 - Current best internal CV score: 0.9761968306922435
+
+Generation 2 - Current best internal CV score: 0.9761968306922435
+
+Generation 3 - Current best internal CV score: 0.9761968306922435
+
+Generation 4 - Current best internal CV score: 0.9780150125104253
+
+Generation 5 - Current best internal CV score: 0.9780150125104253
+
+Generation 6 - Current best internal CV score: 0.9780316930775648
+
+Generation 7 - Current best internal CV score: 0.9780316930775648
+
+Generation 8 - Current best internal CV score: 0.9798498748957465
+
+Generation 9 - Current best internal CV score: 0.9798498748957465
+
+Generation 10 - Current best internal CV score: 0.9798498748957465
+
+Best pipeline: ExtraTreesClassifier(input_matrix, bootstrap=False, criterion=entropy, max_features=0.35000000000000003, min_samples_leaf=1, min_samples_split=12, n_estimators=100)
+0.9781021897810219
+
+Process finished with exit code 0

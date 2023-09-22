@@ -1,0 +1,35 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB8/TPOTCVdb8.py
+Number of Rows: 116
+Number of Columns: 10
+   Class       Age       BMI  ...  Adiponectin  Resistin     MCP.1
+0      1 -0.579794 -0.816675  ...    -0.070222 -0.545517 -0.341251
+1      1  1.601821 -1.378751  ...    -0.697350 -0.864214 -0.191224
+2      1  1.539489 -0.891764  ...     1.797998 -0.441660  0.058214
+3      1  0.666843 -1.243303  ...    -0.441945 -0.158867  1.142718
+4      1  1.788816 -1.294601  ...    -0.786881 -0.336352  0.694716
+
+[5 rows x 10 columns]
+
+Generation 1 - Current best internal CV score: 0.7772727272727274
+
+Generation 2 - Current best internal CV score: 0.7772727272727274
+
+Generation 3 - Current best internal CV score: 0.7772727272727274
+
+Generation 4 - Current best internal CV score: 0.7772727272727274
+
+Generation 5 - Current best internal CV score: 0.7787878787878787
+
+Generation 6 - Current best internal CV score: 0.78510101010101
+
+Generation 7 - Current best internal CV score: 0.788888888888889
+
+Generation 8 - Current best internal CV score: 0.788888888888889
+
+Generation 9 - Current best internal CV score: 0.788888888888889
+
+Generation 10 - Current best internal CV score: 0.788888888888889
+
+Best pipeline: KNeighborsClassifier(input_matrix, n_neighbors=22, p=1, weights=distance)
+
+Process finished with exit code 0

@@ -1,0 +1,26 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB8/TPOTdb8norm.py
+
+Generation 1 - Current best internal CV score: 0.7935672514619883
+
+Generation 2 - Current best internal CV score: 0.7935672514619883
+
+Generation 3 - Current best internal CV score: 0.7935672514619883
+
+Generation 4 - Current best internal CV score: 0.7935672514619883
+
+Generation 5 - Current best internal CV score: 0.8046783625730993
+
+Generation 6 - Current best internal CV score: 0.8046783625730993
+
+Generation 7 - Current best internal CV score: 0.8146198830409357
+
+Generation 8 - Current best internal CV score: 0.8146198830409357
+
+Generation 9 - Current best internal CV score: 0.8146198830409357
+
+Generation 10 - Current best internal CV score: 0.8146198830409357
+
+Best pipeline: RandomForestClassifier(input_matrix, bootstrap=True, criterion=gini, max_features=0.5, min_samples_leaf=5, min_samples_split=5, n_estimators=100)
+0.5416666666666666
+
+Process finished with exit code 0

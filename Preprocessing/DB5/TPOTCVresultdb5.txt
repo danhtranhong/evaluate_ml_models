@@ -1,0 +1,35 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB5/TPOTCVdb5.py
+Number of Rows: 24
+Number of Columns: 9
+       PCA_1      PCA_2  ...     PCA_8              Disease_state
+0   7.599227  -9.699018  ... -1.789973  docetaxel resistant tumor
+1  -5.744764  -3.064441  ...  4.641010  docetaxel resistant tumor
+2  -5.494855  -4.147987  ...  8.891695  docetaxel resistant tumor
+3  15.910780 -13.908443  ... -6.347920  docetaxel resistant tumor
+4 -11.064636  -1.683426  ... -4.892992  docetaxel resistant tumor
+
+[5 rows x 9 columns]
+
+Generation 1 - Current best internal CV score: 0.8833333333333333
+
+Generation 2 - Current best internal CV score: 0.9166666666666666
+
+Generation 3 - Current best internal CV score: 0.9166666666666666
+
+Generation 4 - Current best internal CV score: 0.9166666666666666
+
+Generation 5 - Current best internal CV score: 0.9166666666666666
+
+Generation 6 - Current best internal CV score: 0.9166666666666666
+
+Generation 7 - Current best internal CV score: 0.9166666666666666
+
+Generation 8 - Current best internal CV score: 0.9277777777777777
+
+Generation 9 - Current best internal CV score: 0.9277777777777777
+
+Generation 10 - Current best internal CV score: 0.9277777777777777
+
+Best pipeline: LinearSVC(GaussianNB(input_matrix), C=25.0, dual=True, loss=squared_hinge, penalty=l2, tol=0.0001)
+
+Process finished with exit code 0

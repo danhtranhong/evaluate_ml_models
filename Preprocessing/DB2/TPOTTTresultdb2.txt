@@ -1,0 +1,26 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB2/TPOTTTdb2.py
+
+Generation 1 - Current best internal CV score: 0.7763285024154589
+
+Generation 2 - Current best internal CV score: 0.7763285024154589
+
+Generation 3 - Current best internal CV score: 0.7763285024154589
+
+Generation 4 - Current best internal CV score: 0.7765217391304347
+
+Generation 5 - Current best internal CV score: 0.7765217391304347
+
+Generation 6 - Current best internal CV score: 0.7765217391304347
+
+Generation 7 - Current best internal CV score: 0.7765217391304347
+
+Generation 8 - Current best internal CV score: 0.7765217391304347
+
+Generation 9 - Current best internal CV score: 0.7765217391304347
+
+Generation 10 - Current best internal CV score: 0.7765217391304347
+
+Best pipeline: XGBClassifier(input_matrix, learning_rate=0.01, max_depth=4, min_child_weight=7, n_estimators=100, n_jobs=1, subsample=0.6000000000000001, verbosity=0)
+0.7068965517241379
+
+Process finished with exit code 0

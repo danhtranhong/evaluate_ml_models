@@ -1,0 +1,26 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB8/TPOTTTdb8.py
+
+Generation 1 - Current best internal CV score: 0.783625730994152
+
+Generation 2 - Current best internal CV score: 0.8035087719298245
+
+Generation 3 - Current best internal CV score: 0.8046783625730993
+
+Generation 4 - Current best internal CV score: 0.8046783625730993
+
+Generation 5 - Current best internal CV score: 0.8046783625730993
+
+Generation 6 - Current best internal CV score: 0.8052631578947368
+
+Generation 7 - Current best internal CV score: 0.8052631578947368
+
+Generation 8 - Current best internal CV score: 0.8052631578947368
+
+Generation 9 - Current best internal CV score: 0.8152046783625732
+
+Generation 10 - Current best internal CV score: 0.8152046783625732
+
+Best pipeline: SGDClassifier(input_matrix, alpha=0.01, eta0=0.01, fit_intercept=True, l1_ratio=1.0, learning_rate=constant, loss=hinge, penalty=elasticnet, power_t=0.5)
+0.625
+
+Process finished with exit code 0

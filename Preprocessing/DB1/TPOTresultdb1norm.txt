@@ -1,0 +1,26 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB1/TPOTTTdb1norm.py
+
+Generation 1 - Current best internal CV score: 0.9736263736263737
+
+Generation 2 - Current best internal CV score: 0.9736263736263737
+
+Generation 3 - Current best internal CV score: 0.9736263736263737
+
+Generation 4 - Current best internal CV score: 0.9802197802197803
+
+Generation 5 - Current best internal CV score: 0.9824175824175825
+
+Generation 6 - Current best internal CV score: 0.9824175824175825
+
+Generation 7 - Current best internal CV score: 0.9824175824175825
+
+Generation 8 - Current best internal CV score: 0.9824175824175825
+
+Generation 9 - Current best internal CV score: 0.9824175824175825
+
+Generation 10 - Current best internal CV score: 0.9824175824175825
+
+Best pipeline: LinearSVC(PolynomialFeatures(input_matrix, degree=2, include_bias=False, interaction_only=False), C=0.5, dual=True, loss=squared_hinge, penalty=l2, tol=0.01)
+0.9824561403508771
+
+Process finished with exit code 0

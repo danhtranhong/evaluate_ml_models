@@ -1,0 +1,35 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB1/TPOTdb1.py
+Number of Rows: 569
+Number of Columns: 32
+  Class       X.0       X.1       X.2  ...      X.27      X.28      X.29      X.30
+0     M -0.236405  1.097064 -2.073335  ...  2.109526  2.296076  2.750622  1.937015
+1     M -0.236403  1.829821 -0.353632  ... -0.146749  1.087084 -0.243890  0.281190
+2     M  0.431741  1.579888  0.456187  ...  0.854974  1.955000  1.152255  0.201391
+3     M  0.432121 -0.768909  0.253732  ...  1.989588  2.175786  6.046041  4.935010
+4     M  0.432201  1.750297 -1.151816  ...  0.613179  0.729259 -0.868353 -0.397100
+
+[5 rows x 32 columns]
+
+Generation 1 - Current best internal CV score: 0.9801169590643274
+
+Generation 2 - Current best internal CV score: 0.9801169590643274
+
+Generation 3 - Current best internal CV score: 0.9801169590643274
+
+Generation 4 - Current best internal CV score: 0.9801169590643274
+
+Generation 5 - Current best internal CV score: 0.9801169590643274
+
+Generation 6 - Current best internal CV score: 0.9801169590643274
+
+Generation 7 - Current best internal CV score: 0.9801169590643274
+
+Generation 8 - Current best internal CV score: 0.9801169590643274
+
+Generation 9 - Current best internal CV score: 0.9818713450292397
+
+Generation 10 - Current best internal CV score: 0.9818713450292397
+
+Best pipeline: LinearSVC(RobustScaler(input_matrix), C=0.01, dual=True, loss=squared_hinge, penalty=l2, tol=0.1)
+
+Process finished with exit code 0

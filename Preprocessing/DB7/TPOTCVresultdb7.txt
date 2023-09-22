@@ -1,0 +1,35 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB7/TPOTCVdb7.py
+Number of Rows: 4024
+Number of Columns: 6
+  Status       Age  ...  Survival Months  Regional Node Examined
+0  Alive -1.224296  ...        -3.067291                0.573291
+1  Alive -0.777968  ...        -3.023658                1.314153
+2   Dead  1.453671  ...        -3.023658               -1.278865
+3   Dead -0.889550  ...        -3.023658                1.437631
+4   Dead  1.007343  ...        -2.980026                0.820245
+
+[5 rows x 6 columns]
+
+Generation 1 - Current best internal CV score: 0.902171113004045
+
+Generation 2 - Current best internal CV score: 0.902171113004045
+
+Generation 3 - Current best internal CV score: 0.902171113004045
+
+Generation 4 - Current best internal CV score: 0.902171113004045
+
+Generation 5 - Current best internal CV score: 0.9021733762947052
+
+Generation 6 - Current best internal CV score: 0.9021733762947052
+
+Generation 7 - Current best internal CV score: 0.9029173816607615
+
+Generation 8 - Current best internal CV score: 0.9029173816607615
+
+Generation 9 - Current best internal CV score: 0.9032488508656058
+
+Generation 10 - Current best internal CV score: 0.9032488508656058
+
+Best pipeline: XGBClassifier(input_matrix, learning_rate=0.001, max_depth=4, min_child_weight=5, n_estimators=100, n_jobs=1, subsample=0.5, verbosity=0)
+
+Process finished with exit code 0

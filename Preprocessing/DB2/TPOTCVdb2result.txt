@@ -1,0 +1,35 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB2/TPOPCVdb2.py
+Number of Rows: 286
+Number of Columns: 10
+   age  menopause  tumor_size  inv_nodes  ...  breast  breast_quad  irradiat  Class
+0    1          2           5          0  ...       0            1         0      0
+1    2          2           3          0  ...       1            4         0      0
+2    2          2           3          0  ...       0            1         0      0
+3    4          0           2          0  ...       1            2         0      0
+4    2          2           0          0  ...       1            3         0      0
+
+[5 rows x 10 columns]
+
+Generation 1 - Current best internal CV score: 0.7624794745484401
+
+Generation 2 - Current best internal CV score: 0.7624794745484401
+
+Generation 3 - Current best internal CV score: 0.7633004926108377
+
+Generation 4 - Current best internal CV score: 0.7633004926108377
+
+Generation 5 - Current best internal CV score: 0.7633004926108377
+
+Generation 6 - Current best internal CV score: 0.7633004926108377
+
+Generation 7 - Current best internal CV score: 0.7714696223316915
+
+Generation 8 - Current best internal CV score: 0.7714696223316915
+
+Generation 9 - Current best internal CV score: 0.7714696223316915
+
+Generation 10 - Current best internal CV score: 0.7714696223316915
+
+Best pipeline: DecisionTreeClassifier(RobustScaler(GaussianNB(input_matrix)), criterion=gini, max_depth=2, min_samples_leaf=6, min_samples_split=3)
+
+Process finished with exit code 0

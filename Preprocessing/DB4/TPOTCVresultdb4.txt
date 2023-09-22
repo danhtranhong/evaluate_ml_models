@@ -1,0 +1,35 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database/DB4/TPOTCVdb4.py
+Number of Rows: 683
+Number of Columns: 11
+   Class       X.0       X.1       X.2  ...       X.6       X.7       X.8     X.9
+0      2 -0.123664  0.197905 -0.702212  ... -0.698853 -0.181827 -0.612927 -0.3484
+1      2 -0.118956  0.197905  0.277252  ...  1.772867 -0.181827 -0.285105 -0.3484
+2      2 -0.098833 -0.511643 -0.702212  ... -0.424217 -0.181827 -0.612927 -0.3484
+3      2 -0.097459  0.552679  1.583204  ...  0.125054 -0.181827  1.354008 -0.3484
+4      2 -0.096256 -0.156869 -0.702212  ... -0.698853 -0.181827 -0.612927 -0.3484
+
+[5 rows x 11 columns]
+
+Generation 1 - Current best internal CV score: 0.9755683432793405
+
+Generation 2 - Current best internal CV score: 0.9765487354362034
+
+Generation 3 - Current best internal CV score: 0.9765487354362034
+
+Generation 4 - Current best internal CV score: 0.9765487354362034
+
+Generation 5 - Current best internal CV score: 0.9765487354362034
+
+Generation 6 - Current best internal CV score: 0.9770389315146347
+
+Generation 7 - Current best internal CV score: 0.9770389315146347
+
+Generation 8 - Current best internal CV score: 0.9775220233020742
+
+Generation 9 - Current best internal CV score: 0.9775220233020742
+
+Generation 10 - Current best internal CV score: 0.9775220233020742
+
+Best pipeline: RandomForestClassifier(input_matrix, bootstrap=True, criterion=gini, max_features=0.15000000000000002, min_samples_leaf=3, min_samples_split=13, n_estimators=100)
+
+Process finished with exit code 0

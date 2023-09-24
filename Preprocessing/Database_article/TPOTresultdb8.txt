@@ -1,0 +1,26 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database_article/TPOTTTdb.py
+
+Generation 1 - Current best internal CV score: 0.783625730994152
+
+Generation 2 - Current best internal CV score: 0.783625730994152
+
+Generation 3 - Current best internal CV score: 0.7929824561403509
+
+Generation 4 - Current best internal CV score: 0.804093567251462
+
+Generation 5 - Current best internal CV score: 0.804093567251462
+
+Generation 6 - Current best internal CV score: 0.8040935672514621
+
+Generation 7 - Current best internal CV score: 0.8040935672514621
+
+Generation 8 - Current best internal CV score: 0.8040935672514621
+
+Generation 9 - Current best internal CV score: 0.8040935672514621
+
+Generation 10 - Current best internal CV score: 0.8157894736842104
+
+Best pipeline: GaussianNB(RobustScaler(GradientBoostingClassifier(input_matrix, learning_rate=0.1, max_depth=10, max_features=0.9000000000000001, min_samples_leaf=2, min_samples_split=6, n_estimators=100, subsample=0.3)))
+0.625
+
+Process finished with exit code 0

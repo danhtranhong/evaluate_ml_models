@@ -1,0 +1,28 @@
+/Users/minhnguyetnguyen/Documents/AISOUP/AutoML/venv/bin/python /Users/minhnguyetnguyen/Documents/AISOUP/AutoML/Database_article/TPOTTTdb.py
+Imputing missing values in feature set
+
+Generation 1 - Current best internal CV score: 0.8106854838709678
+
+Generation 2 - Current best internal CV score: 0.8106854838709678
+
+Generation 3 - Current best internal CV score: 0.8106854838709678
+
+Generation 4 - Current best internal CV score: 0.817741935483871
+
+Generation 5 - Current best internal CV score: 0.817741935483871
+
+Generation 6 - Current best internal CV score: 0.817741935483871
+
+Generation 7 - Current best internal CV score: 0.817741935483871
+
+Generation 8 - Current best internal CV score: 0.8237903225806452
+
+Generation 9 - Current best internal CV score: 0.8237903225806452
+
+Generation 10 - Current best internal CV score: 0.8237903225806452
+
+Best pipeline: LogisticRegression(StandardScaler(input_matrix), C=25.0, dual=False, penalty=l2)
+Imputing missing values in feature set
+0.875
+
+Process finished with exit code 0
